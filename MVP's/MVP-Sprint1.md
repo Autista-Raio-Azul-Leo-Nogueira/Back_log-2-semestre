@@ -69,15 +69,18 @@ Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo al
 | **Total** | **Avaliação Global da Solução** | **100%** |
 
 ## 🚀 Próximos Passos
-1.Conclusão da Pipeline de ETL:Tratamento e carga no Power Query.
-Finalizar o tratamento de inconsistências na base de dados da PRF utilizando Power Query/Python e estabelecer o modelo de dados dimensional (Star Schema).
-2.Construção de Medidas DAX:Métricas analíticas avançadas.
-Desenvolver as medidas DAX para cálculo de Média Nacional, Taxa de Severidade por Sinistro e Comparativo Percentual Ano contra Ano (YoY).
-3.Publicação do Repositório GitHub:Versionamento e documentação.
-Organizar o repositório público contendo a documentação do projeto, instruções de execução e os assets do Power BI.
-4.Validação com Usuários-Alvo:Revisão e refinamento.
-Realizar a homologação do dashboard com o grupo de tutores/professores do Projeto Integrador para coletar feedbacks e aplicar ajustes finos na Sprint 02.
 
+1. **Conclusão da Pipeline de ETL:** Tratamento e carga no Power Query.
+   Finalizar o tratamento de inconsistências na base de dados da PRF utilizando Power Query/Python e estabelecer o modelo de dados dimensional (Star Schema).
+
+2. **Construção de Medidas DAX:** Métricas analíticas avançadas.
+   Desenvolver as medidas DAX para cálculo de Média Nacional, Taxa de Severidade por Sinistro e Comparativo Percentual Ano contra Ano (YoY).
+
+3. **Publicação do Repositório GitHub:** Versionamento e documentação.
+   Organizar o repositório público contendo a documentação do projeto, instruções de execução e os assets do Power BI.
+
+4. **Validação com Usuários-Alvo:** Revisão e refinamento.
+   Realizar a homologação do dashboard com o grupo de tutores/professores do Projeto Integrador para coletar feedbacks e aplicar ajustes finos na Sprint 02.
 
 ## 📂 Anexos / Evidências
 - Fonte Primária dos Dados: Dados Abertos da PRF (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
